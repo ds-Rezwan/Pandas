@@ -1,5 +1,5 @@
 # Pandas:
-Pandas is an open-source data manipulation and analysis library for Python, providing data structures and functions needed to work with structured data seamlessly and intuitively. It is particularly well-suited for handling and analyzing large datasets.
+Pandas is an open-source data manipulation and analysis library for Python, providing data structures and functions needed to work with structured data seamlessly and intuitively. It is particularly well-suited for handling and analyzing large datasets. 
 
 # Key Features of Pandas
 1. Data Structures:
